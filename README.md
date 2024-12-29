@@ -3,7 +3,7 @@
 
 See Makefile also
 
-## Primary result is that sudoku intial problem in bena.sud is under-constrained and has seven valid solutions:
+## Primary result is that sudoku intial problem in bena.sud is under-constrained and has twenty-three valid solutions:
 * Source image:  ![](https://github.com/drbitboy/brute-sudoku/raw/master/IMG_20241222_193425.jpg)
 ```
 Input:
